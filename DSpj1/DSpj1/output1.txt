@@ -2,3 +2,175 @@
                    Spring 2018       Assignment #1
 ----------------------------------------------------------------------
 
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+                           Southern Comfort Airlines
+
+Flight 0                                       From: Jackson, Mississippi
+                                                  To: 
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 -999
+ -999 -999 0
+ -999 -999 0
+ -999 -999 0
+ -999 0 0
+ -999 0 0
+ -999 0 0
+ 0 0 0
+
+ WAITING LIST
+
+ there is no waiting list for this flight.
+
+ end of the seating chart
+ ____________________________________________________
+
+ --------------------------------- 
+|      END OF PROGRAM OUTPUT      |
+ --------------------------------- 
